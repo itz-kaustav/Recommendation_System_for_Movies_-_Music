@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Recommendation System</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+
+<div class="container">
+
+    <h1 class="main-title">🎬 Recommendation System 🎵</h1>
+    
+
+    <div class="card">
+
+        <form action="/recommend" method="POST" >
+
+            <label>Select Category:</label>
+            <select name="category" id="category">
+    <option value="" disabled {% if not selected_category %}selected{% endif %}>SELECT</option>
+    <option value="Movie" {% if selected_category == 'Movie' %}selected{% endif %}>Movie</option>
+    <option value="Music" {% if selected_category == 'Music' %}selected{% endif %}>Music</option>
+</select>
+
+            <label>Select Mood:</label>
+            <select name="mood" id="mood">
+    <option value="" disabled {% if not selected_mood %}selected{% endif %}>SELECT</option>
+    <option value="Happy" {% if selected_mood == 'Happy' %}selected{% endif %}>Happy</option>
+    <option value="Sad" {% if selected_mood == 'Sad' %}selected{% endif %}>Sad</option>
+    <option value="Serious" {% if selected_mood == 'Serious' %}selected{% endif %}>Serious</option>
+    <option value="Inspiring" {% if selected_mood == 'Inspiring' %}selected{% endif %}>Inspiring</option>
+    <option value="Exciting" {% if selected_mood == 'Exciting' %}selected{% endif %}>Exciting</option>
+    <option value="Emotional" {% if selected_mood == 'Emotional' %}selected{% endif %}>Emotional</option>
+    <option value="Scary" {% if selected_mood == 'Scary' %}selected{% endif %}>Scary</option>
+</select>
+            <button type="submit">Get Recommendation</button>
+
+        </form>
+
+        {% if recommendations %}
+        <div class="result">
+            <h3>Recommended:</h3>
+            <ul>
+                {% for item in recommendations %}
+                <li>{{ item }}</li>
+                {% endfor %}
+            </ul>
+        </div>
+        {% endif %}
+
+    </div>
+
+</div>
+
+</body>
+</html>

@@ -1,0 +1,101 @@
+id,title,type,genre,mood,language,rating,popularity
+1,Inception,Movie,Sci-Fi,Exciting,English,8.8,95
+2,Titanic,Movie,Romance,Sad,English,7.9,90
+3,3 Idiots,Movie,Comedy,Happy,Hindi,8.4,92
+4,The Dark Knight,Movie,Action,Serious,English,9.0,98
+5,Dangal,Movie,Sports,Inspiring,Hindi,8.3,88
+6,Interstellar,Movie,Sci-Fi,Emotional,English,8.6,93
+7,Kabir Singh,Movie,Romance,Emotional,Hindi,7.1,80
+8,Avengers Endgame,Movie,Action,Exciting,English,8.4,97
+9,ZNMD,Movie,Adventure,Happy,Hindi,8.1,85
+10,The Conjuring,Movie,Horror,Scary,English,7.5,82
+11,Tum Hi Ho,Music,Romantic,Sad,Hindi,4.8,89
+12,Shape of You,Music,Pop,Happy,English,4.7,94
+13,Kesariya,Music,Romantic,Emotional,Hindi,4.5,87
+14,Believer,Music,Rock,Exciting,English,4.6,91
+15,Kal Ho Na Ho,Music,Romantic,Sad,Hindi,4.9,88
+16,Blinding Lights,Music,Pop,Happy,English,4.8,93
+17,Channa Mereya,Music,Romantic,Sad,Hindi,4.9,90
+18,Let Her Go,Music,Pop,Emotional,English,4.7,86
+19,Pathaan,Movie,Action,Exciting,Hindi,7.2,89
+20,Jawan,Movie,Action,Exciting,Hindi,7.5,91
+21,Shershaah,Movie,War,Emotional,Hindi,8.2,87
+22,The Matrix,Movie,Sci-Fi,Exciting,English,8.7,94
+23,PK,Movie,Comedy,Happy,Hindi,8.1,86
+24,The Shawshank Redemption,Movie,Drama,Inspiring,English,9.3,99
+25,Drishyam,Movie,Thriller,Serious,Hindi,8.2,88
+26,Gladiator,Movie,Action,Inspiring,English,8.5,92
+27,The Notebook,Movie,Romance,Emotional,English,7.8,85
+28,Andhadhun,Movie,Thriller,Exciting,Hindi,8.3,90
+29,Avengers Infinity War,Movie,Action,Exciting,English,8.4,96
+30,It,Movie,Horror,Scary,English,7.3,81
+31,Perfect,Music,Pop,Happy,English,4.6,92
+32,Raataan Lambiyan,Music,Romantic,Emotional,Hindi,4.7,88
+33,Someone Like You,Music,Pop,Sad,English,4.8,91
+34,Apna Bana Le,Music,Romantic,Happy,Hindi,4.5,84
+35,Faded,Music,EDM,Emotional,English,4.6,90
+36,Tera Ban Jaunga,Music,Romantic,Emotional,Hindi,4.7,87
+37,Counting Stars,Music,Pop,Exciting,English,4.6,89
+38,Tujhe Kitna Chahne Lage,Music,Romantic,Sad,Hindi,4.8,88
+39,Thunder,Music,Rock,Exciting,English,4.5,85
+40,Phir Bhi Tumko Chaahunga,Music,Romantic,Sad,Hindi,4.7,86
+41,Bahubali,Movie,Action,Inspiring,Hindi,8.0,89
+42,Joker,Movie,Drama,Serious,English,8.4,93
+43,The Lion King,Movie,Animation,Happy,English,8.5,94
+44,War,Movie,Action,Exciting,Hindi,6.9,84
+45,Aashiqui 2,Movie,Romance,Sad,Hindi,7.0,83
+46,The Nun,Movie,Horror,Scary,English,5.5,78
+47,URI,Movie,War,Inspiring,Hindi,8.2,88
+48,The Godfather,Movie,Crime,Serious,English,9.2,98
+49,Zindagi Na Milegi Dobara,Movie,Adventure,Happy,Hindi,8.1,86
+50,Doctor Strange,Movie,Fantasy,Exciting,English,7.5,90
+51,Hymn for the Weekend,Music,Pop,Happy,English,4.6,90
+52,Pasoori,Music,Pop,Happy,Hindi,4.8,92
+53,Memories,Music,Pop,Sad,English,4.5,85
+54,Tera Yaar Hoon Main,Music,Romantic,Emotional,Hindi,4.7,87
+55,Levitating,Music,Pop,Happy,English,4.7,91
+56,Agar Tum Saath Ho,Music,Romantic,Sad,Hindi,4.9,93
+57,Senorita,Music,Pop,Happy,English,4.6,89
+58,Khairiyat,Music,Romantic,Emotional,Hindi,4.7,88
+59,Numb,Music,Rock,Serious,English,4.8,94
+60,Tum Se Hi,Music,Romantic,Emotional,Hindi,4.8,90
+61,RRR,Movie,Action,Inspiring,Hindi,8.0,91
+62,Spider Man No Way Home,Movie,Action,Exciting,English,8.3,95
+63,Lagaan,Movie,Sports,Inspiring,Hindi,8.1,87
+64,Black Panther,Movie,Action,Exciting,English,7.3,88
+65,Tamasha,Movie,Romance,Emotional,Hindi,7.3,82
+66,The Silence of the Lambs,Movie,Thriller,Serious,English,8.6,92
+67,Stree,Movie,Horror,Scary,Hindi,7.5,84
+68,Frozen,Movie,Animation,Happy,English,7.4,83
+69,Gully Boy,Movie,Drama,Inspiring,Hindi,8.0,85
+70,Deadpool,Movie,Action,Exciting,English,8.0,90
+71,Stay,Music,Pop,Exciting,English,4.6,90
+72,Raatan Lambiyan Reprise,Music,Romantic,Sad,Hindi,4.5,84
+73,Closer,Music,Pop,Happy,English,4.6,88
+74,Shayad,Music,Romantic,Emotional,Hindi,4.6,85
+75,Heat Waves,Music,Pop,Emotional,English,4.7,89
+76,Dil Diyan Gallan,Music,Romantic,Happy,Hindi,4.7,88
+77,Arcade,Music,Pop,Sad,English,4.8,87
+78,Tum Mile,Music,Romantic,Emotional,Hindi,4.6,83
+79,Radioactive,Music,Rock,Exciting,English,4.7,91
+80,Hawayein,Music,Romantic,Sad,Hindi,4.8,90
+81,KGF,Movie,Action,Serious,Hindi,8.2,92
+82,The Avengers,Movie,Action,Exciting,English,8.0,94
+83,Barfi,Movie,Romance,Emotional,Hindi,8.1,86
+84,Get Out,Movie,Horror,Scary,English,7.7,85
+85,Queen,Movie,Comedy,Happy,Hindi,8.2,87
+86,The Prestige,Movie,Thriller,Serious,English,8.5,91
+87,Raazi,Movie,Thriller,Serious,Hindi,7.8,84
+88,Coco,Movie,Animation,Emotional,English,8.4,89
+89,Chhichhore,Movie,Comedy,Inspiring,Hindi,8.3,88
+90,John Wick,Movie,Action,Exciting,English,7.4,86
+91,Unstoppable,Music,Pop,Inspiring,English,4.5,82
+92,Ilahi,Music,Pop,Happy,Hindi,4.8,90
+93,Demons,Music,Rock,Serious,English,4.7,89
+94,Malang Title Track,Music,Rock,Exciting,Hindi,4.6,85
+95,Peaches,Music,Pop,Happy,English,4.4,83
+96,Raabta,Music,Romantic,Emotional,Hindi,4.7,88
+97,Counting Stars Acoustic,Music,Pop,Emotional,English,4.5,84
+98,Tum Ho,Music,Romantic,Sad,Hindi,4.9,91
+99,Bones,Music,Rock,Exciting,English,4.6,86
+100,Tera Hone Laga Hoon,Music,Romantic,Happy,Hindi,4.8,89
