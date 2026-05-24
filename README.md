@@ -38,7 +38,9 @@ The dataset contains:
 
 ---
 
-## 📁 Project Structure
+
+
+
 ## 📁 Project Structure
 
 ```text
@@ -66,4 +68,8 @@ Recommendation_System_for_Movies_Music/
 │
 └── templates/
     └── index.html
+<<<<<<< HEAD
 ```
+=======
+```
+>>>>>>> fe0db5a78e66020acde9d9d2104de64d6fecb51e
