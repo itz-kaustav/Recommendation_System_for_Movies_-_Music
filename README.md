@@ -39,3 +39,31 @@ The dataset contains:
 ---
 
 ## 📁 Project Structure
+## 📁 Project Structure
+
+```text
+Recommendation_System_for_Movies_Music/
+│
+├── app.py
+├── README.md
+├── requirements.txt
+├── requirements.text
+├── movies_music_recommendation_100.csv
+├── Recommendation_System_for_Movies_Music.zip
+│
+├── model/
+│   └── (ML model files / recommendation logic)
+│
+├── static/
+│   ├── css/
+│   │   └── style.css
+│   │
+│   ├── js/
+│   │   └── script.js
+│   │
+│   └── images/
+│       └── (project images/assets)
+│
+└── templates/
+    └── index.html
+```
